@@ -1,336 +1,372 @@
 date,hostName,landingPagePlusQueryString,pagePath,pageTitle,percentScrolled,screenPageViews
-20230310,moandbear.com.ph,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,3
-20230310,moandbear.com.ph,/orders/,/orders/,Orders,,2
-20230310,moandbear.com.ph,/?fbclid=PAAabCu8MfAQKGlAOY-1GGeC-F_izq94OVBYUOn_8btxKXZFhQhIiGFsGht4k,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,1
-20230310,moandbear.com.ph,/pet-care/,/pet-care/,Pet Care,,1
-20230309,moandbear.com.ph,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,8
-20230309,moandbear.com.ph,/brands/adidas-accessories-kids-fk3484-bp-power-v-s-ns-fk3484/?vendor_id=31,/brands/adidas-accessories-kids-fk3484-bp-power-v-s-ns-fk3484/,Page Not Found,,1
-20230309,moandbear.com.ph,/brands/adidas-training-women-tights-tf-long-t/,/brands/adidas-training-women-tights-tf-long-t/,Brands :: Adidas Training Women Tights Tf Long T [FJ7167] - Mo&Bear Products,,1
-20230309,moandbear.com.ph,/brands/puma-lifestyle-womens-evostripe-womens-tee-58124114-en/,/brands/puma-lifestyle-womens-evostripe-womens-tee-58124114-en/,Page Not Found,,1
-20230309,moandbear.com.ph,/pet-care/pet-food/?fbclid=IwAR1kXPkkz8jIGLFwaoKuheBEUhlYFDnAUfHq4O08xLQRcmlV1LZOX7-9zio,/pet-care/pet-food/,Pet Care :: Pet Food - Mo&Bear Categories,,1
-20230309,moandbear.com.ph,/pet-care/pet-food/?fbclid=IwAR1qanO6ewS91CaI5WD90oL0jokLhyUixEn2PGbEyKSJynbzJo9SLSYChjs,/pet-care/pet-food/,Pet Care :: Pet Food - Mo&Bear Categories,,1
-20230309,moandbear.com.ph,/pet-care/pet-food/?fbclid=IwAR2Kl9batINWgNTvPRrRcwd8FWwqUp6oIiQzjIDkMQFA2yCMuSIB_pJ-ZMg,/pet-care/pet-food/,Pet Care :: Pet Food - Mo&Bear Categories,,1
-20230309,moandbear.com.ph,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/,/login/,Sign in,,1
-20230309,moandbear.com.ph,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/,/orders/,Orders,,1
-20230309,moandbear.com.ph,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/,Mo&Bear Purr Delight Tuna with Moringa 155gms,,1
-20230309,moandbear.com.ph,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/?fbclid=IwAR2MtRtl62ES7Dv6T-GhCeOaRwKmZOZgr0QTD-a8sj64pwgaUFrZR-O4VKQ,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/,Mo&Bear Purr Delight Tuna with Moringa 155gms,,1
-20230309,moandbear.com.ph,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/?fbclid=IwAR2ouRso8SXBfB8xBu0gM3VA4z3jgcdDZsRyz0ZKkPRQb1UvoIHqHOH8XVk,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/,Mo&Bear Purr Delight Tuna with Moringa 155gms,,1
-20230308,moandbear.com.ph,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,6
-20230308,moandbear.com.ph,/,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/,Mo&Bear Purr Delight Tuna with Moringa 155gms,,3
-20230308,moandbear.com.ph,/,/checkout/,Checkout,,2
-20230308,moandbear.com.ph,/,/index.php,Registration,,2
-20230308,moandbear.com.ph,/,/profiles-add/,Registration,,2
-20230308,moandbear.com.ph,/,/profiles-update/,Editing profile,,2
-20230308,moandbear.com.ph,/,/about-our-company/,About Us,,1
-20230308,moandbear.com.ph,/,/brands/purr-delight/,Purr Delight,,1
-20230308,moandbear.com.ph,/,/index.php,Your order has been received,,1
-20230308,moandbear.com.ph,/,/login/,Sign in,,1
-20230308,moandbear.com.ph,/,/orders/,Orders,,1
-20230308,moandbear.com.ph,/?fbclid=PAAaaDo1uTyG445DFjmgq1PBfQOTBinM_Bns5VI9-OQr_P92SFet9QlVa5u0A,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,1
-20230308,moandbear.com.ph,/brands/happy-life/,/brands/happy-life/,Happy Life,,1
-20230308,moandbear.com.ph,/brands/happy-life/,/pet-care/pet-food/,Pet Care :: Pet Food - Mo&Bear Categories,,1
-20230308,moandbear.com.ph,/pet-care/happy-life-pet-spray/,/pet-care/happy-life-pet-spray/,Happy Life Pet Spray,,1
-20230308,moandbear.com.ph,/pet-care/pet-food/?fbclid=IwAR01FwkQXQRoHs3qmyXuqArRE3JmVrEgS8ms5AjlRgvKJmCbCXhT_eS9Dc4,/pet-care/pet-food/,Pet Care :: Pet Food - Mo&Bear Categories,,1
-20230308,moandbear.com.ph,/pet-care/pet-food/?fbclid=IwAR3pA4WhOnyL0uq6-9Keu29cnMbdbl24ict8ttVinmMe0OWTu76XgzK2LF4,/pet-care/pet-food/,Pet Care :: Pet Food - Mo&Bear Categories,,1
-20230308,moandbear.com.ph,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/?fbclid=IwAR1qE5owzjikX79Eg6dR4rnRGDIRbZ6QW35JmgbgbSXd5VFc3DlnUqyMqnI,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/,Mo&Bear Purr Delight Tuna with Moringa 155gms,,1
-20230308,moandbear.com.ph,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/?fbclid=IwAR2I4X-HHFv7wNmmtc2drTGK8KVv23ieIlnfRB4DlFZREog-2ze_URJEKbM,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/,Mo&Bear Purr Delight Tuna with Moringa 155gms,,1
-20230308,moandbear.com.ph,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/?fbclid=IwAR3OUDzYbG_7y6unpvOSuWtfN-GTMAV_6Cn__cD4NkT_oTUgNVQrQVTZDDc,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/,Mo&Bear Purr Delight Tuna with Moringa 155gms,,1
-20230307,moandbear.com.ph,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,8
-20230307,moandbear.com.ph,/,/about-our-company/,About Us,,3
-20230307,moandbear.com.ph,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/,Mo&Bear Purr Delight Tuna with Moringa 155gms,,2
-20230307,moandbear.com.ph,/,/brands/happy-life/,Happy Life,,1
-20230306,connectsys.shop,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,11
-20230306,moandbear.com.ph,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,10
-20230306,moandbear.com.ph,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-in-jelly-155gms/,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-in-jelly-155gms/,Mo&Bear Purr Delight Tuna in Jelly 155gms,,2
-20230306,connectsys.shop,/,/checkout/,Checkout,,1
-20230306,connectsys.shop,/,/cuisine/japanese-food/,Japanese Food,,1
-20230306,moandbear.com.ph,/,/home-care/,Home Care,,1
-20230306,moandbear.com.ph,/,/pet-care/happy-life-pet-shampoo-and-conditioner-1l-clone-mo-and-bear/,Happy Life Pet Shampoo & Conditioner 1L,,1
-20230306,moandbear.com.ph,/brands/purr-delight,/brands/purr-delight,Purr Delight,,1
-20230305,moandbear.com.ph,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,6
-20230305,connectsys.shop,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,1
-20230305,connectsys.shop,/,/checkout/,Checkout,,1
-20230304,connectsys.shop,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,3
-20230304,moandbear.com.ph,/,/brands/happy-life/,Happy Life,,2
-20230304,connectsys.shop,/,/checkout/,Checkout,,1
-20230304,connectsys.shop,/,/cuisine/japanese-food/kamameshi/,Cuisine :: Japanese Food :: Kamameshi,,1
-20230304,moandbear.com.ph,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,1
-20230304,moandbear.com.ph,/,/about-our-company/,About Us,,1
-20230304,moandbear.com.ph,/,/pet-care/,Pet Care,,1
-20230304,moandbear.com.ph,/brands/adidas-originals-men-shoes-stan-smith-en-31/,/brands/adidas-originals-men-shoes-stan-smith-en-31/,Brands :: Adidas Originals Men Shoes Stan Smith [M20325] - Mo&Bear Products,,1
-20230304,moandbear.com.ph,/brands/happy-life/,/brands/happy-life/,Happy Life,,1
-20230303,moandbear.com.ph,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,8
-20230303,moandbear.com.ph,/,/about-our-company/,About Us,,2
-20230303,moandbear.com.ph,/payment-and-shipping/,/payment-and-shipping/,Page Not Found,,1
-20230303,moandbear.com.ph,/pet-care/pet-food/?fbclid=IwAR0tp-G3V5g6dHdCIZ4_MUaQkaRRTuQzjgrl5ifo3LMEWl84RteYJkIfd2Q,/pet-care/pet-food/,Pet Care :: Pet Food - Mo&Bear Categories,,1
-20230302,moandbear.com.ph,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,5
-20230302,moandbear.com.ph,/,/home-care/,Home Care,,1
-20230302,moandbear.com.ph,/pet-care/pet-food/,/pet-care/pet-food/,Pet Care :: Pet Food - Mo&Bear Categories,,1
-20230301,uat.moandbear.com.ph,/bulkbuy/,/moandbear-greenhills/,All vendors :: Mo & Bear Greenhills :: Pet Care,,27
-20230301,uat.moandbear.com.ph,/bulkbuy/,/moandbear-greenhills/,All vendors :: Mo & Bear Greenhills,,19
-20230301,uat.moandbear.com.ph,/bulkbuy/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,18
-20230301,uat.moandbear.com.ph,/bulkbuy/,/moandbear-greenhills,All vendors :: Mo & Bear Greenhills,,10
-20230301,uat.moandbear.com.ph,/bulkbuy/,/mo-and-bear/,All vendors :: Mo & Bear,,7
-20230301,moandbear.com.ph,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,6
-20230301,uat.moandbear.com.ph,/bulkbuy/,/index.php,All vendors,,6
-20230301,uat.moandbear.com.ph,/bulkbuy/,/bulkbuy/,Bulk Buy,,4
-20230301,uat.moandbear.com.ph,/bulkbuy/,/index.php,Apply for a vendor account,,4
-20230301,uat.moandbear.com.ph,/bulkbuy/,/mo-and-bear/,All vendors :: Mo & Bear :: Brands :: Happy Life,,3
-20230301,uat.moandbear.com.ph,/bulkbuy/,/moandbear-greenhills/,All vendors :: Mo & Bear Greenhills :: Home Care,,3
-20230301,uat.moandbear.com.ph,/bulkbuy/,/checkout/,Checkout,,2
-20230301,uat.moandbear.com.ph,/bulkbuy/,/mo-and-bear/,All vendors :: Mo & Bear :: Brands,,2
-20230301,uat.moandbear.com.ph,/bulkbuy/,/mo-and-bear/,All vendors :: Mo & Bear :: Bulk Buy,,2
-20230301,uat.moandbear.com.ph,/bulkbuy/,/mo-and-bear/,All vendors :: Mo & Bear :: Home Care,,2
-20230301,uat.moandbear.com.ph,/moandbear-greenhills,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,2
-20230301,moandbear.com.ph,/,/brands/happy-life/,Happy Life,,1
-20230301,moandbear.com.ph,/,/faqs,Mo&Bear FAQs,,1
-20230301,moandbear.com.ph,/brands/adidas-running-men-shoes-supernova-m/,/brands/adidas-running-men-shoes-supernova-m/,Brands :: Adidas Running Men Shoes Supernova M [EG5401] - Mo&Bear Products,,1
-20230301,moandbear.com.ph,/pet-care/pet-food/?fbclid=IwAR0WZKl4PShhOmqv7UHIDN4DgszImdcJ5cj6cfM727xzVj3Uoxib8cPWuFY,/pet-care/pet-food/,Pet Care :: Pet Food - Mo&Bear Categories,,1
-20230301,moandbear.com.ph,/pet-care/pet-food/?fbclid=IwAR0jh2wh4Rk5A2R82JStrVw6wLkq0XqGL2gyIBjQCTxToTaPw1nsnbYZ7AY,/checkout/,Checkout,,1
-20230301,moandbear.com.ph,/pet-care/pet-food/?fbclid=IwAR0jh2wh4Rk5A2R82JStrVw6wLkq0XqGL2gyIBjQCTxToTaPw1nsnbYZ7AY,/pet-care/pet-food/,Pet Care :: Pet Food - Mo&Bear Categories,,1
-20230301,moandbear.com.ph,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/?fbclid=IwAR28NGwotKU_0FibsK3tGxfwbZtJoY2V-RI6y3hmLXwgmHAqO4KL1Ih7jz0,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/,Mo&Bear Purr Delight Tuna with Moringa 155gms,,1
-20230301,uat.moandbear.com.ph,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,1
-20230301,uat.moandbear.com.ph,/,/bulkbuy/,Bulk Buy,,1
-20230301,uat.moandbear.com.ph,/bulkbuy/,/brands-en/purr-delight-en/mo-and-bear-purr-delight-tuna-with-moringa-155gms/,Mo&Bear Purr Delight Tuna with Moringa 155gms,,1
-20230301,uat.moandbear.com.ph,/bulkbuy/,/brands/purr-delight/,Page Not Found,,1
-20230301,uat.moandbear.com.ph,/bulkbuy/,/compare/,Feature comparison,,1
-20230301,uat.moandbear.com.ph,/bulkbuy/,/index.php,All vendors :: Mo & Bear,,1
-20230301,uat.moandbear.com.ph,/bulkbuy/,/index.php,Your order has been received,,1
-20230301,uat.moandbear.com.ph,/bulkbuy/,/mo-and-bear/,All vendors :: Mo & Bear :: Brands :: Purr Delight,,1
-20230301,uat.moandbear.com.ph,/bulkbuy/,/mo-and-bear/,All vendors :: Mo & Bear :: Pet Care,,1
-20230301,uat.moandbear.com.ph,/bulkbuy/,/moandbear-greenhiils,Page Not Found,,1
-20230301,uat.moandbear.com.ph,/bulkbuy/,/moandbear-greenhills/%3Fcategory_id=373&features_hash=1-86-387-PHP,All vendors :: Mo & Bear Greenhills :: Pet Care,,1
-20230301,uat.moandbear.com.ph,/bulkbuy/,/moandbear-greenhills/%3Ffeatures_hash=1-86-373-PHP,All vendors :: Mo & Bear Greenhills,,1
-20230301,uat.moandbear.com.ph,/login/?return_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D387,/login/,Sign in,,1
-20230301,uat.moandbear.com.ph,/login/?return_url=index.php%3Fdispatch%3Dorders.search,/login/,Sign in,,1
-20230301,uat.moandbear.com.ph,/moandbear-greenhills,/cart/,Cart contents,,1
-20230301,uat.moandbear.com.ph,/moandbear-greenhills,/mo-and-bear/,All vendors :: Mo & Bear :: Brands,,1
-20230301,uat.moandbear.com.ph,/moandbear-greenhills,/moandbear-greenhills,All vendors :: Mo & Bear Greenhills,,1
-20230301,uat.moandbear.com.ph,/profiles-add/,/profiles-add/,Registration,,1
-20230228,uat.moandbear.com.ph,/login/?return_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D387,/login/,Sign in,,25
-20230228,uat.moandbear.com.ph,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,22
-20230228,uat.moandbear.com.ph,/login/?return_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D387,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,14
-20230228,uat.moandbear.com.ph,/login/?return_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D387,/wholesale/,Wholesale,,14
-20230228,uat.moandbear.com.ph,/mo-and-bear,/wholesale/,Wholesale,,13
-20230228,uat.moandbear.com.ph,/brands/happy-life/,/orders/,Orders,,9
-20230228,uat.moandbear.com.ph,/,/login/,Sign in,,7
-20230228,uat.moandbear.com.ph,/bulkbuy/,/bulkbuy/,Bulk Buy,,6
-20230228,uat.moandbear.com.ph,/,/bulkbuy/,Bulk Buy,,5
-20230228,uat.moandbear.com.ph,/login/?return_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D387,/profiles-add/,Registration,,5
-20230228,uat.moandbear.com.ph,/login/?return_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D387,/profiles-update/,Editing profile,,5
-20230228,uat.moandbear.com.ph,/mo-and-bear,/wholesale,Wholesale,,5
-20230228,uat.moandbear.com.ph,/,/brands-en/purr-delight-en/,Purr Delight,,4
-20230228,uat.moandbear.com.ph,/,/index.php,Apply for a vendor account,,4
-20230228,uat.moandbear.com.ph,/,/wholesale-en/,Wholesale,,4
-20230228,uat.moandbear.com.ph,/brands/happy-life/,/bulkbuy/,Bulk Buy,,4
-20230228,uat.moandbear.com.ph,/mo-and-bear,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,4
-20230228,uat.moandbear.com.ph,/mo-and-bear,/wholesale-en/,Wholesale,,4
-20230228,uat.connectsys.shop,/,/checkout/,Checkout,,3
-20230228,uat.connectsys.shop,/,/profiles-add/,Registration,,3
-20230228,uat.moandbear.com.ph,/,/checkout/,Checkout,,3
-20230228,uat.moandbear.com.ph,/,/wholesale,Page Not Found,,3
-20230228,uat.moandbear.com.ph,/login/?return_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D387,/checkout/,Checkout,,3
-20230228,uat.moandbear.com.ph,/moandbear-greenhills,/moandbear-greenhills,All vendors :: Mo & Bear Greenhills,,3
-20230228,uat.moandbear.com.ph,/profiles-add/,/profiles-add/,Registration,,3
-20230228,moandbear.com.ph,/mo-and-bear,/index.php,Apply for a vendor account,,2
-20230228,moandbear.com.ph,/mo-and-bear,/mo-and-bear,All vendors :: Mo & Bear,,2
-20230228,uat.connectsys.shop,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,2
-20230228,uat.connectsys.shop,/,/cart/,Cart contents,,2
-20230228,uat.connectsys.shop,/,/index.php,Orders :: Order information,,2
-20230228,uat.connectsys.shop,/index.php?dispatch=orders.details&order_id=424,/index.php,Orders :: Order information,,2
-20230228,uat.moandbear.com.ph,/,/brands-en/purr-delight-en/mo-and-bear-purr-delight-tuna-in-jelly-155gms/,Mo&Bear Purr Delight Tuna in Jelly 155gms,,2
-20230228,uat.moandbear.com.ph,/,/index.php,Your order has been received,,2
-20230228,uat.moandbear.com.ph,/,/moandbear-greenhills,All vendors :: Mo & Bear Greenhills,,2
-20230228,uat.moandbear.com.ph,/,/orders/,Orders,,2
-20230228,uat.moandbear.com.ph,/,/personal-care/,Personal Care,,2
-20230228,uat.moandbear.com.ph,/,/pet-care/pet-food/,Pet Care :: Pet Food - Mo&Bear Categories,,2
-20230228,uat.moandbear.com.ph,/,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-in-jelly-155gms-gh/,Mo&Bear Purr Delight Tuna in Jelly 155gms,,2
-20230228,uat.moandbear.com.ph,/,/wholesale/,Page Not Found,,2
-20230228,uat.moandbear.com.ph,/brands/happy-life/,/cart/,Cart contents,,2
-20230228,uat.moandbear.com.ph,/brands/happy-life/,/index.php,Search results,,2
-20230228,uat.moandbear.com.ph,/brands/happy-life/,/returns/,Return requests,,2
-20230228,uat.moandbear.com.ph,/bulkbuy/,/about-us/,About Mo&Bear,,2
-20230228,uat.moandbear.com.ph,/index.php?dispatch=auth.recover_password&ekey=ea9dd4fb70f756e32d9266d3cc8b7a31,/profiles-update/,Editing profile,,2
-20230228,uat.moandbear.com.ph,/login/?return_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D387,/brands/happy-life/,Happy Life,,2
-20230228,uat.moandbear.com.ph,/login/?return_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D387,/home-care/,Home Care,,2
-20230228,uat.moandbear.com.ph,/login/?return_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D387,/index.php,Apply for a vendor account,,2
-20230228,uat.moandbear.com.ph,/login/?return_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D387,/mo-and-bear,All vendors :: Mo & Bear,,2
-20230228,uat.moandbear.com.ph,/login/?return_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D387,/wholesale/,Page Not Found,,2
-20230228,uat.moandbear.com.ph,/mo-and-bear,/brands/happy-life/,Happy Life,,2
-20230228,uat.moandbear.com.ph,/mo-and-bear,/checkout/,Checkout,,2
-20230228,uat.moandbear.com.ph,/mo-and-bear,/index.php,Your order has been received,,2
-20230228,uat.moandbear.com.ph,/mo-and-bear,/pet-care/happy-life-pet-shampoo-and-conditioner-1l-bulk,Happy Life Pet Shampoo & Conditioner 1L [Bulk],,2
-20230228,uat.moandbear.com.ph,/mo-and-bear,/pet-care/happy-life-pet-shampoo-and-conditioner-1l-bulk/,Happy Life Pet Shampoo & Conditioner 1L [Bulk],,2
-20230228,moandbear.com.ph,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,1
-20230228,moandbear.com.ph,/?fbclid=PAAaZOO6vsdtIhpfUemA6rO7q1oVs9jbivrGTAJmB6yT1Aj6Dwrxzclh5JtpI,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,1
-20230228,moandbear.com.ph,/?fbclid=PAAaZOO6vsdtIhpfUemA6rO7q1oVs9jbivrGTAJmB6yT1Aj6Dwrxzclh5JtpI,/brands/happy-life/,Happy Life,,1
-20230228,moandbear.com.ph,/?fbclid=PAAaZOO6vsdtIhpfUemA6rO7q1oVs9jbivrGTAJmB6yT1Aj6Dwrxzclh5JtpI,/home-care/,Home Care,,1
-20230228,moandbear.com.ph,/brands/adidas-running-men-x9000l3-shoes-fw8050/,/brands/adidas-running-men-x9000l3-shoes-fw8050/,Page Not Found,,1
-20230228,moandbear.com.ph,/mo-and-bear,/brands/happy-life/,Happy Life,,1
-20230228,moandbear.com.ph,/mo-and-bear,/checkout/,Checkout,,1
-20230228,moandbear.com.ph,/mo-and-bear,/index.php,Your order has been received,,1
-20230228,moandbear.com.ph,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/?fbclid=IwAR1eySaLitFrwbCA16UQkK2QofeUUI2WvP2mXDn6X425IvPb7Wh5ijqOjPs,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/,Mo&Bear Purr Delight Tuna with Moringa 155gms,,1
-20230228,moandbear.com.ph,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/?fbclid=IwAR1pb7HW0Vw4Nn8r9Q2tafdOGCgIuGPjdKdiDu264nwa1M1VTBziAsZIBss,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/,Mo&Bear Purr Delight Tuna with Moringa 155gms,,1
-20230228,moandbear.com.ph,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/?fbclid=IwAR3LMF79jq4M0EJw6v-UpWDW16SRz9fXorj5eF7m_Wp-LhwjIXruJP_xHGM,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/,Mo&Bear Purr Delight Tuna with Moringa 155gms,,1
-20230228,uat.connectsys.shop,/,/brands/yebisu/miso-ramen-dx/,Brands :: Yebisu :: Miso Ramen DX,,1
-20230228,uat.connectsys.shop,/,/index.php,Registration,,1
-20230228,uat.connectsys.shop,/,/index.php,Your order has been received,,1
-20230228,uat.moandbear.com,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,1
-20230228,uat.moandbear.com.ph,/,/brands-en/happy-life/,Happy Life,,1
-20230228,uat.moandbear.com.ph,/,/faqs/,Mo & Bear FAQs,,1
-20230228,uat.moandbear.com.ph,/,/home-care/,Home Care,,1
-20230228,uat.moandbear.com.ph,/,/home-care/happy-life-odor-eliminator-air-freshener-gh/,Happy Life Odor Eliminator Air Freshener,,1
-20230228,uat.moandbear.com.ph,/,/index.php,Reset password,,1
-20230228,uat.moandbear.com.ph,/,/index.php,Search results,,1
-20230228,uat.moandbear.com.ph,/,/personal-care/happy-life-hand-gel-sanitizer-gh/,Happy Life Hand Gel Sanitizer,,1
-20230228,uat.moandbear.com.ph,/,/personal-care/happy-life-hand-gel-sanitizer/,Happy Life Hand Gel Sanitizer,,1
-20230228,uat.moandbear.com.ph,/,/profiles-add/,Registration,,1
-20230228,uat.moandbear.com.ph,/,/profiles-update/,Editing profile,,1
-20230228,uat.moandbear.com.ph,/brands/happy-life/,/brands/happy-life/,Page Not Found,,1
-20230228,uat.moandbear.com.ph,/brands/happy-life/,/checkout/,Checkout,,1
-20230228,uat.moandbear.com.ph,/brands/happy-life/,/index.php,Orders :: Order information,,1
-20230228,uat.moandbear.com.ph,/brands/happy-life/,/index.php,Your order has been received,,1
-20230228,uat.moandbear.com.ph,/bulkbuy/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,1
-20230228,uat.moandbear.com.ph,/index.php?dispatch=auth.recover_password&ekey=ea9dd4fb70f756e32d9266d3cc8b7a31,/index.php,Reset password,,1
-20230228,uat.moandbear.com.ph,/index.php?dispatch=checkout.complete&order_id=427,/index.php,Apply for a vendor account,,1
-20230228,uat.moandbear.com.ph,/index.php?dispatch=checkout.complete&order_id=427,/index.php,Your order has been received,,1
-20230228,uat.moandbear.com.ph,/login/?return_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D387,/brands/purr-delight/,Purr Delight,,1
-20230228,uat.moandbear.com.ph,/login/?return_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D387,/index.php,Registration,,1
-20230228,uat.moandbear.com.ph,/login/?return_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D387,/moandbearqc,Page Not Found,,1
-20230228,uat.moandbear.com.ph,/login/?return_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D387,/personal-care/,Personal Care,,1
-20230228,uat.moandbear.com.ph,/login/?return_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D387,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-in-jelly-155gms/,Mo&Bear Purr Delight Tuna in Jelly 155gms,,1
-20230228,uat.moandbear.com.ph,/login/?return_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D387,/wholesale,Page Not Found,,1
-20230228,uat.moandbear.com.ph,/login/?return_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D387,/wholesale,Wholesale,,1
-20230228,uat.moandbear.com.ph,/login/?return_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D387,/wholesale/%3Ffeatures_hash=1-392-4224-PHP,Wholesale,,1
-20230228,uat.moandbear.com.ph,/login/?return_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D387,/wholesale/happy-life-hand-gel-sanitizer-bulk/,Happy Life Hand Gel Sanitizer,,1
-20230228,uat.moandbear.com.ph,/login/?return_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D387,/wholesale/mo-and-bear-purr-delight-tuna-with-moringa-155gms-bulk/,Mo&Bear Purr Delight Tuna with Moringa 155gms [Bulk],,1
-20230228,uat.moandbear.com.ph,/mo-and-bear,/login/,Sign in,,1
-20230228,uat.moandbear.com.ph,/mo-and-bear,/mo-and-bear,All vendors :: Mo & Bear,,1
-20230228,uat.moandbear.com.ph,/mo-and-bear,/orders/,Orders,,1
-20230228,uat.moandbear.com.ph,/mo-and-bear,/pet-care/happy-life-pet-shampoo-and-conditioner-1l-clone/,Happy Life Pet Shampoo & Conditioner 1L,,1
-20230228,uat.moandbear.com.ph,/mo-and-bear,/profiles-update/,Editing profile,,1
-20230228,uat.moandbear.com.ph,/mo-and-bear,/wholesale/mo-and-bear-purr-delight-tuna-in-jelly-155gms-bulk/,Mo&Bear Purr Delight Tuna in Jelly 155gms [Bulk],,1
-20230228,uat.moandbear.com.ph,/moandbear-greenhills,/index.php,Registration,,1
-20230228,uat.moandbear.com.ph,/moandbear-greenhills,/profiles-add/,Registration,,1
-20230228,uat.moandbear.com.ph,/profiles-add/,/index.php,Registration,,1
-20230228,uat.moandbear.com.ph,/profiles-add/,/login/,Sign in,,1
-20230227,moandbear.com.ph,/?s_layout=96,/index.php,Page Not Found,,5
-20230227,moandbear.com.ph,/?s_layout=96,/index.php,Apply for a vendor account,,4
-20230227,moandbear.com.ph,/brands/purr-delight,/brands/purr-delight,Purr Delight,,4
-20230227,moandbear.com.ph,/index.php?dispatch=companies.apply_for_vendor,/index.php,Apply for a vendor account,,3
-20230227,uat.moandbear.com.ph,/?s_layout=96,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,3
-20230227,moandbear.com.ph,/?s_layout=96,/mo-and-bear,All vendors :: Mo & Bear,,2
-20230227,uat.moandbear.com.ph,/?s_layout=96,/index.php,Apply for a vendor account,,2
-20230227,moandbear.com.ph,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,1
-20230227,moandbear.com.ph,/,/brands/happy-life/,Happy Life,,1
-20230227,moandbear.com.ph,/,/personal-care/happy-life-hand-gel-sanitizer/,Happy Life Hand Gel Sanitizer,,1
-20230227,moandbear.com.ph,/brands/adidas-not-sports-specific-men-t-shirts-mh-bos-tee-en-5/,/brands/adidas-not-sports-specific-men-t-shirts-mh-bos-tee-en-5/,Brands :: Adidas Not Sports Specific Men T-Shirts Mh Bos Tee [GC7348] - Mo&Bear Products,,1
-20230227,moandbear.com.ph,/categories/t-shirts/,/categories/t-shirts/,Page Not Found,,1
-20230227,moandbear.com.ph,/index.php?dispatch=companies.apply_for_vendor,/mo-and-bear,All vendors :: Mo & Bear,,1
-20230227,moandbear.com.ph,/pet-care/pet-food/?fbclid=IwAR0jzLrlYlgZ8h5eib4IkTejO_qKRXCYe2JWds6Grepu3q3TBLHmL_eGni8,/pet-care/pet-food/,Pet Care :: Pet Food - Mo&Bear Categories,,1
-20230227,moandbear.com.ph,/pet-care/pet-food/?fbclid=IwAR0jzLrlYlgZ8h5eib4IkTejO_qKRXCYe2JWds6Grepu3q3TBLHmL_eGni8,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/,Mo&Bear Purr Delight Tuna with Moringa 155gms,,1
-20230227,moandbear.com.ph,/pet-care/pet-food/?fbclid=IwAR1sj-xNnYcf_-YuCjIgke7eiIECkvgziELK3vNepj5CUu3FZu31AMvJPl4,/pet-care/pet-food/,Pet Care :: Pet Food - Mo&Bear Categories,,1
-20230227,moandbear.com.ph,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-in-jelly-155gms/?fbclid=IwAR0Mg4lZxV3MwlXtIc4A8mAoZSsL4-13dRgcSJb4fsOSrAWOAvdMGuxxwP4,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-in-jelly-155gms/,Mo&Bear Purr Delight Tuna in Jelly 155gms,,1
-20230227,moandbear.com.ph,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-in-jelly-155gms/?fbclid=IwAR0oizAYe2uwg_lgPJvZNVkCc2D7nSMtsDvS3DNxMQ3v7RltRjTkWLGpLQo,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-in-jelly-155gms/,Mo&Bear Purr Delight Tuna in Jelly 155gms,,1
-20230227,moandbear.com.ph,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-in-jelly-155gms/?fbclid=IwAR3r5ttIk6RxxKUoCtnNLS9BR-d_UjhAaw_DbqQ6yT_wqsGkXOqQ0RwqW8U,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-in-jelly-155gms/,Mo&Bear Purr Delight Tuna in Jelly 155gms,,1
-20230227,uat.moandbear.com.ph,/?s_layout=96,/mo-and-bear,All vendors :: Mo & Bear,,1
-20230226,connectsys.shop,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,11
-20230226,moandbear.com.ph,/brands/purr-delight,/brands/purr-delight,Purr Delight,,5
-20230226,connectsys.shop,/cart/,/cart/,Cart contents,,1
-20230226,connectsys.shop,/cuisine/japanese-food/kamameshi/,/cuisine/japanese-food/kamameshi/,Cuisine :: Japanese Food :: Kamameshi,,1
-20230226,connectsys.shop,/cuisine/japanese-food/karaage/,/cuisine/japanese-food/karaage/,Cuisine :: Japanese Food :: Karaage,,1
-20230226,connectsys.shop,/cuisine/japanese-food/ramen-deluxe/,/cuisine/japanese-food/ramen-deluxe/,Cuisine :: Japanese Food :: Ramen Deluxe,,1
-20230226,connectsys.shop,/index.php?dispatch=auth.recover_password,/index.php,Reset password,,1
-20230226,connectsys.shop,/login/?return_url=index.php,/login/,Sign in,,1
-20230226,connectsys.shop,/login/?return_url=index.php%3Fdispatch%3Dprofiles.update,/login/,Sign in,,1
-20230226,connectsys.shop,/profiles-add/,/profiles-add/,Registration,,1
-20230226,moandbear.com.ph,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,1
-20230226,moandbear.com.ph,/?fbclid=PAAaYktY8WhzG5WRkHpNkWwsCaF0Ii9owsjtu5zipBVi7gAGDOypDdcGWm03M,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,1
-20230226,moandbear.com.ph,/brands/purr-delight,/brands/purr-delight/,Purr Delight,,1
-20230226,moandbear.com.ph,/brands/purr-delight,/brands/purr-delight/%3Ffeatures_hash=1-87-88-PHP,Purr Delight,,1
-20230226,moandbear.com.ph,/login/,/login/,Sign in,,1
-20230226,moandbear.com.ph,/login/?return_url=index.php%3Fdispatch%3Dprofiles.update,/login/,Sign in,,1
-20230225,moandbear.com.ph,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,2
-20230225,uat.moandbear.com.ph,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,2
-20230225,uat.moandbear.com.ph,/,/checkout/,Checkout,,2
-20230225,uat.moandbear.com.ph,/,/index.php,Your order has been received,,2
-20230225,moandbear.com.ph,/,/checkout/,Checkout,,1
-20230225,moandbear.com.ph,/,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/,Mo&Bear Purr Delight Tuna with Moringa 155gms,,1
-20230225,moandbear.com.ph,/about-our-company/,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/,Mo&Bear Purr Delight Tuna with Moringa 155gms,,1
-20230225,moandbear.com.ph,/payment-and-shipping,/payment-and-shipping,Page Not Found,,1
-20230225,uat.moandbear.com.ph,/,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-in-jelly-155gms/,Mo&Bear Purr Delight Tuna in Jelly 155gms,,1
-20230225,uat.moandbear.com.ph,/about-our-company/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,1
-20230225,uat.moandbear.com.ph,/about-our-company/,/about-our-company/,Page Not Found,,1
-20230225,uat.moandbear.com.ph,/about-our-company/,/pet-care/,Pet Care,,1
-20230225,uat.moandbear.com.ph,/about-our-company/,/pet-care/pet-food/,Pet Care :: Pet Food - Mo&Bear Categories,,1
-20230225,uat.moandbear.com.ph,/about-our-company/,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/,Mo&Bear Purr Delight Tuna with Moringa 155gms,,1
-20230225,uat.moandbear.com.ph,/brands/purr-delight/,/brands/purr-delight/,Purr Delight,,1
-20230225,uat.moandbear.com.ph,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-in-jelly-155gms/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,1
-20230225,uat.moandbear.com.ph,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-in-jelly-155gms/,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-in-jelly-155gms/,Mo&Bear Purr Delight Tuna in Jelly 155gms,,1
-20230224,connectsys.shop,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,14
-20230224,moandbear.com.ph,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,7
-20230224,connectsys.shop,/,/checkout/,Checkout,,2
-20230224,moandbear.com.ph,/home-care/happy-life-odor-eliminator-air-freshener/,/home-care/happy-life-odor-eliminator-air-freshener/,Happy Life Odor Eliminator Air Freshener,,2
-20230224,moandbear.com.ph,/mo-and-bear/,/mo-and-bear/,All vendors :: Mo & Bear,,2
-20230224,uat.moandbear.com.ph,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,2
-20230224,connectsys.shop,/,/cuisine/japanese-food/edamame/,Cuisine :: Japanese Food :: Edamame,,1
-20230224,connectsys.shop,/,/index.php,Your order has been received,,1
-20230224,connectsys.shop,/?fbclid=IwAR18Rafm_x6kyAIiM9ERyTYV7iM2nivJ52KyaIA-_48EvMEtOnVzKlSiI48,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,1
-20230224,moandbear.com.ph,/,/pet-care/happy-life-pet-shampoo-and-conditioner-1l-clone-mo-and-bear/,Happy Life Pet Shampoo & Conditioner 1L,,1
-20230224,moandbear.com.ph,/?fbclid=PAAaYxlGHlF6-ToAGDGw1RtXRN_pylo9kvhX0NKgtOWjp427FEjZfWAZndYrA,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,1
-20230224,moandbear.com.ph,/?fbclid=PAAaaG6tvnSjVI7PAgB82H3qQtvoqAOiB43ZeK5Zu87ZW2Td5HnVofZgUym9k,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,1
-20230224,moandbear.com.ph,/faqs/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,1
-20230224,moandbear.com.ph,/faqs/,/faqs/,Mo&Bear FAQs,,1
-20230224,moandbear.com.ph,/pet-care/pet-food/,/pet-care/pet-food/,Pet Care :: Pet Food - Mo&Bear Categories,,1
-20230224,moandbear.com.ph,/pet-care/pet-food/?fbclid=IwAR0ZCu-CxREE_fzmxMl6haqc_Bc3lnjungMup9cEIQ3tjrxQwXPVDeW9IUE,/pet-care/pet-food/,Pet Care :: Pet Food - Mo&Bear Categories,,1
-20230224,moandbear.com.ph,/pet-care/pet-food/?fbclid=IwAR1eOxD1biW6TN8AOKLzRMHUFPYL0k9yK-00qHqIIspd-D193l5WMIrbunM,/pet-care/pet-food/,Pet Care :: Pet Food - Mo&Bear Categories,,1
-20230224,moandbear.com.ph,/pet-care/pet-food/?fbclid=IwAR290iabUnN-vPwbOsnMDofaHphaYu-ru6gF36uPHZM3ADx1iA800cQTl0M,/checkout/,Checkout,,1
-20230224,moandbear.com.ph,/pet-care/pet-food/?fbclid=IwAR290iabUnN-vPwbOsnMDofaHphaYu-ru6gF36uPHZM3ADx1iA800cQTl0M,/pet-care/pet-food/,Pet Care :: Pet Food - Mo&Bear Categories,,1
-20230224,moandbear.com.ph,/pet-care/pet-food/?fbclid=IwAR290iabUnN-vPwbOsnMDofaHphaYu-ru6gF36uPHZM3ADx1iA800cQTl0M,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/,Mo&Bear Purr Delight Tuna with Moringa 155gms,,1
-20230224,moandbear.com.ph,/pet-care/pet-food/?fbclid=IwAR2jAbh4p7AVz9GLAuESrgtT10N9AfdyMRlw_r-FIDhdd68vgvvfhxuos98,/pet-care/pet-food/,Pet Care :: Pet Food - Mo&Bear Categories,,1
-20230224,moandbear.com.ph,/pet-care/pet-food/?fbclid=IwAR3HA7HuVyjwLdTyznxSE_spPmawSiMdQ4Ofjj4Ldm-YlD52DgYMH76RwC8,/pet-care/pet-food/,Pet Care :: Pet Food - Mo&Bear Categories,,1
-20230224,uat.connectsys.shop,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,1
-20230224,uat.moandbear.com.ph,/about-us/,/about-us/,About Mo&Bear,,1
-20230223,moandbear.com.ph,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,8
-20230223,moandbear.com.ph,/home-care/,/home-care/,Home Care,,4
-20230223,connectsys.shop,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,2
-20230223,moandbear.com.ph,/,/brands/happy-life/,Happy Life,,1
-20230223,moandbear.com.ph,/,/home-care/happy-life-odor-eliminator-air-freshener/,Happy Life Odor Eliminator Air Freshener,,1
-20230223,moandbear.com.ph,/,/pet-care/happy-life-pet-neem-soap-mo-and-bear/,Happy Life Pet Neem Soap,,1
-20230223,moandbear.com.ph,/?fbclid=PAAaaBi1e1TOcYANOERCL7OcV6G-vxhcICEl9JfwPm9kK8cr0W4PXe66ORwuA,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,1
-20230223,moandbear.com.ph,/?fbclid=PAAaaBi1e1TOcYANOERCL7OcV6G-vxhcICEl9JfwPm9kK8cr0W4PXe66ORwuA,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/,Mo&Bear Purr Delight Tuna with Moringa 155gms,,1
-20230223,moandbear.com.ph,/brands/adidas-originals-men-shoes-stan-smith-en-31/,/brands/adidas-originals-men-shoes-stan-smith-en-31/,Brands :: Adidas Originals Men Shoes Stan Smith [M20325] - Mo&Bear Products,,1
-20230223,moandbear.com.ph,/pet-care/pet-food/,/pet-care/pet-food/,Pet Care :: Pet Food - Mo&Bear Categories,,1
-20230223,moandbear.com.ph,/pet-care/pet-food/?fbclid=IwAR24oiGm3iy2hapzut1KIC9j145M6ODa-lf_lonYQAJO-kZhxjh4tOrnqBM,/pet-care/pet-food/,Pet Care :: Pet Food - Mo&Bear Categories,,1
-20230222,moandbear.com.ph,/pet-care/pet-food/,/pet-care/pet-food/,Pet Care :: Pet Food - Mo&Bear Categories,,17
-20230222,moandbear.com.ph,/pet-care/pet-food/,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/,Mo&Bear Purr Delight Tuna with Moringa 155gms,,4
-20230222,moandbear.com.ph,/pet-care/pet-food/,/brands/happy-life/,Happy Life,,3
-20230222,moandbear.com.ph,/pet-care/pet-food/,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-in-jelly-155gms/,Mo&Bear Purr Delight Tuna in Jelly 155gms,,3
-20230222,connectsys.shop,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,2
-20230222,moandbear.com.ph,/home-care/,/home-care/,Home Care,,2
-20230222,moandbear.com.ph,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,1
-20230222,moandbear.com.ph,/pet-care/pet-food/,/brands/happy-life/%3Ffeatures_hash=1-98-592-PHP,Happy Life,,1
-20230222,moandbear.com.ph,/pet-care/pet-food/,/checkout/,Checkout,,1
-20230222,moandbear.com.ph,/pet-care/pet-food/?fbclid=IwAR0G5oYkCXPWI6MTOMNgOGwUdvy5n1uMWmDt9_VlizMgokgmpQ0JBV8SfFk,/pet-care/pet-food/,Pet Care :: Pet Food - Mo&Bear Categories,,1
-20230222,moandbear.com.ph,/pet-care/pet-food/?fbclid=IwAR2SRlLPAxPYgRgV2T1obcFKE9LFAnTlWQczFHe7zdfsw_1Z6JEuDLi7Wz8,/pet-care/pet-food/,Pet Care :: Pet Food - Mo&Bear Categories,,1
-20230222,moandbear.com.ph,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/,Mo&Bear Purr Delight Tuna with Moringa 155gms,,1
-20230222,uat.connectsys.shop,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,1
-20230222,uat.moandbear.com.ph,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-in-jelly-155gms/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,1
-20230222,uat.moandbear.com.ph,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-in-jelly-155gms/,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-in-jelly-155gms/,Mo&Bear Purr Delight Tuna in Jelly 155gms,,1
-20230221,moandbear.com.ph,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,8
-20230221,moandbear.com.ph,/,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/,Mo&Bear Purr Delight Tuna with Moringa 155gms,,5
-20230221,moandbear.com.ph,/brands/happy-life/,/brands/happy-life/,Happy Life,,4
-20230221,moandbear.com.ph,/,/brands/purr-delight/,Purr Delight,,2
-20230221,moandbear.com.ph,/,/home-care/,Home Care,,2
-20230221,moandbear.com.ph,/brands/happy-life/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,2
-20230221,moandbear.com.ph,/,/about-our-company/,About Us,,1
-20230221,moandbear.com.ph,/,/brands/happy-life/,Happy Life,,1
-20230221,moandbear.com.ph,/,/faqs,Mo&Bear FAQs,,1
-20230221,moandbear.com.ph,/,/personal-care/happy-life-hand-gel-sanitizer/,Happy Life Hand Gel Sanitizer,,1
-20230221,moandbear.com.ph,/?fbclid=IwAR2X7pbdgwo3IjsPbVsm-I-57qH1uAuEym34hwcU0fqi42SUW57Ojgkkjhc,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,1
-20230221,moandbear.com.ph,/brands/happy-life/,/about-our-company/,About Us,,1
-20230221,moandbear.com.ph,/pet-care/pet-food/?fbclid=IwAR3qyITVwt2bp3p6kxyI2yPzJZ7WuEUaw3-HgjM-xzOTfIfGt77ye9lpvv8,/pet-care/pet-food/,Pet Care :: Pet Food - Mo&Bear Categories,,1
-20230221,uat.connectsys.shop,/vendor,/vendor,Page Not Found,,1
-20230221,uat.moandbear.com.ph,/brands/happy-life/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,1
-20230221,uat.moandbear.com.ph,/brands/happy-life/,/brands/happy-life/,Happy Life,,1
-20230221,uat.moandbear.com.ph,/brands/happy-life/,/checkout/,Checkout,,1
+2023-03-13,moandbear.com.ph,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,9
+2023-03-13,moandbear.com.ph,/,/checkout/,Checkout,,2
+2023-03-13,moandbear.com.ph,/cart/,/cart/,Cart contents,,2
+2023-03-13,moandbear.com.ph,/,/brands/happy-life/,Happy Life,,1
+2023-03-13,moandbear.com.ph,/,/brands/purr-delight/,Purr Delight,,1
+2023-03-13,moandbear.com.ph,/,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/,Mo&Bear Purr Delight Tuna with Moringa 155gms,,1
+2023-03-13,moandbear.com.ph,/brands/happy-life/,/brands/happy-life/,Happy Life,,1
+2023-03-13,moandbear.com.ph,/cart/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,1
+2023-03-13,moandbear.com.ph,/cart/,/brands/purr-delight/,Purr Delight,,1
+2023-03-13,moandbear.com.ph,/cart/,/checkout/,Checkout,,1
+2023-03-12,moandbear.com.ph,/orders/,/orders/,Orders,,4
+2023-03-12,moandbear.com.ph,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,1
+2023-03-12,moandbear.com.ph,/,/brands/happy-life/,Happy Life,,1
+2023-03-12,moandbear.com.ph,/,/checkout/,Checkout,,1
+2023-03-12,moandbear.com.ph,/,/faqs,Mo&Bear FAQs,,1
+2023-03-12,moandbear.com.ph,/,/pet-care/happy-life-waterless-shampoo/,Happy Life Waterless Shampoo,,1
+2023-03-12,moandbear.com.ph,/cart/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,1
+2023-03-12,moandbear.com.ph,/cart/,/cart/,Cart contents,,1
+2023-03-12,moandbear.com.ph,/pet-care/pet-food/,/pet-care/pet-food/,Pet Care :: Pet Food - Mo&Bear Categories,,1
+2023-03-12,moandbear.com.ph,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/,Mo&Bear Purr Delight Tuna with Moringa 155gms,,1
+2023-03-11,moandbear.com.ph,/orders/,/orders/,Orders,,6
+2023-03-11,moandbear.com.ph,/?fbclid=PAAaal-7pmSdcXdJRabizKbQiCnUjXa1XTSLD9wOSqt5Ltuksrtn80XkkB40k,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,3
+2023-03-11,moandbear.com.ph,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,2
+2023-03-11,moandbear.com.ph,/?fbclid=PAAaal-7pmSdcXdJRabizKbQiCnUjXa1XTSLD9wOSqt5Ltuksrtn80XkkB40k,/home-care/,Home Care,,2
+2023-03-11,moandbear.com.ph,/?fbclid=IwAR3w14xtvRG1WKyJG7vcrTzToRMDHwhkH_YGHqhMLZTwqgn6y4yUYUAAmhM,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,1
+2023-03-11,moandbear.com.ph,/?fbclid=PAAaal-7pmSdcXdJRabizKbQiCnUjXa1XTSLD9wOSqt5Ltuksrtn80XkkB40k,/brands/purr-delight/,Purr Delight,,1
+2023-03-11,moandbear.com.ph,/?fbclid=PAAaal-7pmSdcXdJRabizKbQiCnUjXa1XTSLD9wOSqt5Ltuksrtn80XkkB40k,/home-care/happy-life-odor-eliminator-air-freshener/,Happy Life Odor Eliminator Air Freshener,,1
+2023-03-11,moandbear.com.ph,/orders/,/cart/,Cart contents,,1
+2023-03-11,moandbear.com.ph,/orders/,/checkout/,Checkout,,1
+2023-03-11,moandbear.com.ph,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-in-jelly-155gms/,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-in-jelly-155gms/,Mo&Bear Purr Delight Tuna in Jelly 155gms,,1
+2023-03-10,moandbear.com.ph,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,6
+2023-03-10,moandbear.com.ph,/orders/,/orders/,Orders,,2
+2023-03-10,moandbear.com.ph,/,/pet-care/pet-food/,Pet Care :: Pet Food - Mo&Bear Categories,,1
+2023-03-10,moandbear.com.ph,/?fbclid=PAAabCu8MfAQKGlAOY-1GGeC-F_izq94OVBYUOn_8btxKXZFhQhIiGFsGht4k,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,1
+2023-03-10,moandbear.com.ph,/?fbclid=PAAabCu8MfAQKGlAOY-1GGeC-F_izq94OVBYUOn_8btxKXZFhQhIiGFsGht4k,/pet-care/,Pet Care,,1
+2023-03-10,moandbear.com.ph,/home-care/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,1
+2023-03-10,moandbear.com.ph,/home-care/,/home-care/,Home Care,,1
+2023-03-10,moandbear.com.ph,/pet-care/pet-food/?fbclid=IwAR2JZNktO_ePgA-ytU5B97A00LIxpN5NX_s0kvIEy6pB3QzpVZQBueFvVBk,/pet-care/pet-food/,Pet Care :: Pet Food - Mo&Bear Categories,,1
+2023-03-10,moandbear.com.ph,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-in-jelly-155gms/?fbclid=PAAabc8OlZSyIQgKuM52AWq1vCMaa9yB3Eg5kAQc3ObF0DibB136U3N9OqFsA,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-in-jelly-155gms/,Mo&Bear Purr Delight Tuna in Jelly 155gms,,1
+2023-03-10,moandbear.com.ph,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/?fbclid=IwAR2rxlrpGPsa0KmWHqF6aZdsBoFMRBy0Vag11U8cH4kVgM2tm1wmDPuxbRg,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/,Mo&Bear Purr Delight Tuna with Moringa 155gms,,1
+2023-03-09,moandbear.com.ph,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,8
+2023-03-09,moandbear.com.ph,/brands/adidas-accessories-kids-fk3484-bp-power-v-s-ns-fk3484/?vendor_id=31,/brands/adidas-accessories-kids-fk3484-bp-power-v-s-ns-fk3484/,Page Not Found,,1
+2023-03-09,moandbear.com.ph,/brands/adidas-training-women-tights-tf-long-t/,/brands/adidas-training-women-tights-tf-long-t/,Brands :: Adidas Training Women Tights Tf Long T [FJ7167] - Mo&Bear Products,,1
+2023-03-09,moandbear.com.ph,/brands/puma-lifestyle-womens-evostripe-womens-tee-58124114-en/,/brands/puma-lifestyle-womens-evostripe-womens-tee-58124114-en/,Page Not Found,,1
+2023-03-09,moandbear.com.ph,/pet-care/pet-food/?fbclid=IwAR1kXPkkz8jIGLFwaoKuheBEUhlYFDnAUfHq4O08xLQRcmlV1LZOX7-9zio,/pet-care/pet-food/,Pet Care :: Pet Food - Mo&Bear Categories,,1
+2023-03-09,moandbear.com.ph,/pet-care/pet-food/?fbclid=IwAR1qanO6ewS91CaI5WD90oL0jokLhyUixEn2PGbEyKSJynbzJo9SLSYChjs,/pet-care/pet-food/,Pet Care :: Pet Food - Mo&Bear Categories,,1
+2023-03-09,moandbear.com.ph,/pet-care/pet-food/?fbclid=IwAR2Kl9batINWgNTvPRrRcwd8FWwqUp6oIiQzjIDkMQFA2yCMuSIB_pJ-ZMg,/pet-care/pet-food/,Pet Care :: Pet Food - Mo&Bear Categories,,1
+2023-03-09,moandbear.com.ph,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/,/login/,Sign in,,1
+2023-03-09,moandbear.com.ph,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/,/orders/,Orders,,1
+2023-03-09,moandbear.com.ph,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/,Mo&Bear Purr Delight Tuna with Moringa 155gms,,1
+2023-03-09,moandbear.com.ph,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/?fbclid=IwAR2MtRtl62ES7Dv6T-GhCeOaRwKmZOZgr0QTD-a8sj64pwgaUFrZR-O4VKQ,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/,Mo&Bear Purr Delight Tuna with Moringa 155gms,,1
+2023-03-09,moandbear.com.ph,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/?fbclid=IwAR2ouRso8SXBfB8xBu0gM3VA4z3jgcdDZsRyz0ZKkPRQb1UvoIHqHOH8XVk,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/,Mo&Bear Purr Delight Tuna with Moringa 155gms,,1
+2023-03-08,moandbear.com.ph,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,6
+2023-03-08,moandbear.com.ph,/,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/,Mo&Bear Purr Delight Tuna with Moringa 155gms,,3
+2023-03-08,moandbear.com.ph,/,/checkout/,Checkout,,2
+2023-03-08,moandbear.com.ph,/,/index.php,Registration,,2
+2023-03-08,moandbear.com.ph,/,/profiles-add/,Registration,,2
+2023-03-08,moandbear.com.ph,/,/profiles-update/,Editing profile,,2
+2023-03-08,moandbear.com.ph,/,/about-our-company/,About Us,,1
+2023-03-08,moandbear.com.ph,/,/brands/purr-delight/,Purr Delight,,1
+2023-03-08,moandbear.com.ph,/,/index.php,Your order has been received,,1
+2023-03-08,moandbear.com.ph,/,/login/,Sign in,,1
+2023-03-08,moandbear.com.ph,/,/orders/,Orders,,1
+2023-03-08,moandbear.com.ph,/?fbclid=PAAaaDo1uTyG445DFjmgq1PBfQOTBinM_Bns5VI9-OQr_P92SFet9QlVa5u0A,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,1
+2023-03-08,moandbear.com.ph,/brands/happy-life/,/brands/happy-life/,Happy Life,,1
+2023-03-08,moandbear.com.ph,/brands/happy-life/,/pet-care/pet-food/,Pet Care :: Pet Food - Mo&Bear Categories,,1
+2023-03-08,moandbear.com.ph,/pet-care/happy-life-pet-spray/,/pet-care/happy-life-pet-spray/,Happy Life Pet Spray,,1
+2023-03-08,moandbear.com.ph,/pet-care/pet-food/?fbclid=IwAR01FwkQXQRoHs3qmyXuqArRE3JmVrEgS8ms5AjlRgvKJmCbCXhT_eS9Dc4,/pet-care/pet-food/,Pet Care :: Pet Food - Mo&Bear Categories,,1
+2023-03-08,moandbear.com.ph,/pet-care/pet-food/?fbclid=IwAR3pA4WhOnyL0uq6-9Keu29cnMbdbl24ict8ttVinmMe0OWTu76XgzK2LF4,/pet-care/pet-food/,Pet Care :: Pet Food - Mo&Bear Categories,,1
+2023-03-08,moandbear.com.ph,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/?fbclid=IwAR1qE5owzjikX79Eg6dR4rnRGDIRbZ6QW35JmgbgbSXd5VFc3DlnUqyMqnI,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/,Mo&Bear Purr Delight Tuna with Moringa 155gms,,1
+2023-03-08,moandbear.com.ph,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/?fbclid=IwAR2I4X-HHFv7wNmmtc2drTGK8KVv23ieIlnfRB4DlFZREog-2ze_URJEKbM,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/,Mo&Bear Purr Delight Tuna with Moringa 155gms,,1
+2023-03-08,moandbear.com.ph,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/?fbclid=IwAR3OUDzYbG_7y6unpvOSuWtfN-GTMAV_6Cn__cD4NkT_oTUgNVQrQVTZDDc,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/,Mo&Bear Purr Delight Tuna with Moringa 155gms,,1
+2023-03-07,moandbear.com.ph,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,8
+2023-03-07,moandbear.com.ph,/,/about-our-company/,About Us,,3
+2023-03-07,moandbear.com.ph,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/,Mo&Bear Purr Delight Tuna with Moringa 155gms,,2
+2023-03-07,moandbear.com.ph,/,/brands/happy-life/,Happy Life,,1
+2023-03-06,connectsys.shop,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,11
+2023-03-06,moandbear.com.ph,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,10
+2023-03-06,moandbear.com.ph,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-in-jelly-155gms/,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-in-jelly-155gms/,Mo&Bear Purr Delight Tuna in Jelly 155gms,,2
+2023-03-06,connectsys.shop,/,/checkout/,Checkout,,1
+2023-03-06,connectsys.shop,/,/cuisine/japanese-food/,Japanese Food,,1
+2023-03-06,moandbear.com.ph,/,/home-care/,Home Care,,1
+2023-03-06,moandbear.com.ph,/,/pet-care/happy-life-pet-shampoo-and-conditioner-1l-clone-mo-and-bear/,Happy Life Pet Shampoo & Conditioner 1L,,1
+2023-03-06,moandbear.com.ph,/brands/purr-delight,/brands/purr-delight,Purr Delight,,1
+2023-03-05,moandbear.com.ph,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,6
+2023-03-05,connectsys.shop,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,1
+2023-03-05,connectsys.shop,/,/checkout/,Checkout,,1
+2023-03-04,connectsys.shop,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,3
+2023-03-04,moandbear.com.ph,/,/brands/happy-life/,Happy Life,,2
+2023-03-04,connectsys.shop,/,/checkout/,Checkout,,1
+2023-03-04,connectsys.shop,/,/cuisine/japanese-food/kamameshi/,Cuisine :: Japanese Food :: Kamameshi,,1
+2023-03-04,moandbear.com.ph,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,1
+2023-03-04,moandbear.com.ph,/,/about-our-company/,About Us,,1
+2023-03-04,moandbear.com.ph,/,/pet-care/,Pet Care,,1
+2023-03-04,moandbear.com.ph,/brands/adidas-originals-men-shoes-stan-smith-en-31/,/brands/adidas-originals-men-shoes-stan-smith-en-31/,Brands :: Adidas Originals Men Shoes Stan Smith [M20325] - Mo&Bear Products,,1
+2023-03-04,moandbear.com.ph,/brands/happy-life/,/brands/happy-life/,Happy Life,,1
+2023-03-03,moandbear.com.ph,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,8
+2023-03-03,moandbear.com.ph,/,/about-our-company/,About Us,,2
+2023-03-03,moandbear.com.ph,/payment-and-shipping/,/payment-and-shipping/,Page Not Found,,1
+2023-03-03,moandbear.com.ph,/pet-care/pet-food/?fbclid=IwAR0tp-G3V5g6dHdCIZ4_MUaQkaRRTuQzjgrl5ifo3LMEWl84RteYJkIfd2Q,/pet-care/pet-food/,Pet Care :: Pet Food - Mo&Bear Categories,,1
+2023-03-02,moandbear.com.ph,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,5
+2023-03-02,moandbear.com.ph,/,/home-care/,Home Care,,1
+2023-03-02,moandbear.com.ph,/pet-care/pet-food/,/pet-care/pet-food/,Pet Care :: Pet Food - Mo&Bear Categories,,1
+2023-03-01,uat.moandbear.com.ph,/bulkbuy/,/moandbear-greenhills/,All vendors :: Mo & Bear Greenhills :: Pet Care,,27
+2023-03-01,uat.moandbear.com.ph,/bulkbuy/,/moandbear-greenhills/,All vendors :: Mo & Bear Greenhills,,19
+2023-03-01,uat.moandbear.com.ph,/bulkbuy/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,18
+2023-03-01,uat.moandbear.com.ph,/bulkbuy/,/moandbear-greenhills,All vendors :: Mo & Bear Greenhills,,10
+2023-03-01,uat.moandbear.com.ph,/bulkbuy/,/mo-and-bear/,All vendors :: Mo & Bear,,7
+2023-03-01,moandbear.com.ph,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,6
+2023-03-01,uat.moandbear.com.ph,/bulkbuy/,/index.php,All vendors,,6
+2023-03-01,uat.moandbear.com.ph,/bulkbuy/,/bulkbuy/,Bulk Buy,,4
+2023-03-01,uat.moandbear.com.ph,/bulkbuy/,/index.php,Apply for a vendor account,,4
+2023-03-01,uat.moandbear.com.ph,/bulkbuy/,/mo-and-bear/,All vendors :: Mo & Bear :: Brands :: Happy Life,,3
+2023-03-01,uat.moandbear.com.ph,/bulkbuy/,/moandbear-greenhills/,All vendors :: Mo & Bear Greenhills :: Home Care,,3
+2023-03-01,uat.moandbear.com.ph,/bulkbuy/,/checkout/,Checkout,,2
+2023-03-01,uat.moandbear.com.ph,/bulkbuy/,/mo-and-bear/,All vendors :: Mo & Bear :: Brands,,2
+2023-03-01,uat.moandbear.com.ph,/bulkbuy/,/mo-and-bear/,All vendors :: Mo & Bear :: Bulk Buy,,2
+2023-03-01,uat.moandbear.com.ph,/bulkbuy/,/mo-and-bear/,All vendors :: Mo & Bear :: Home Care,,2
+2023-03-01,uat.moandbear.com.ph,/moandbear-greenhills,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,2
+2023-03-01,moandbear.com.ph,/,/brands/happy-life/,Happy Life,,1
+2023-03-01,moandbear.com.ph,/,/faqs,Mo&Bear FAQs,,1
+2023-03-01,moandbear.com.ph,/brands/adidas-running-men-shoes-supernova-m/,/brands/adidas-running-men-shoes-supernova-m/,Brands :: Adidas Running Men Shoes Supernova M [EG5401] - Mo&Bear Products,,1
+2023-03-01,moandbear.com.ph,/pet-care/pet-food/?fbclid=IwAR0WZKl4PShhOmqv7UHIDN4DgszImdcJ5cj6cfM727xzVj3Uoxib8cPWuFY,/pet-care/pet-food/,Pet Care :: Pet Food - Mo&Bear Categories,,1
+2023-03-01,moandbear.com.ph,/pet-care/pet-food/?fbclid=IwAR0jh2wh4Rk5A2R82JStrVw6wLkq0XqGL2gyIBjQCTxToTaPw1nsnbYZ7AY,/checkout/,Checkout,,1
+2023-03-01,moandbear.com.ph,/pet-care/pet-food/?fbclid=IwAR0jh2wh4Rk5A2R82JStrVw6wLkq0XqGL2gyIBjQCTxToTaPw1nsnbYZ7AY,/pet-care/pet-food/,Pet Care :: Pet Food - Mo&Bear Categories,,1
+2023-03-01,moandbear.com.ph,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/?fbclid=IwAR28NGwotKU_0FibsK3tGxfwbZtJoY2V-RI6y3hmLXwgmHAqO4KL1Ih7jz0,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/,Mo&Bear Purr Delight Tuna with Moringa 155gms,,1
+2023-03-01,uat.moandbear.com.ph,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,1
+2023-03-01,uat.moandbear.com.ph,/,/bulkbuy/,Bulk Buy,,1
+2023-03-01,uat.moandbear.com.ph,/bulkbuy/,/brands-en/purr-delight-en/mo-and-bear-purr-delight-tuna-with-moringa-155gms/,Mo&Bear Purr Delight Tuna with Moringa 155gms,,1
+2023-03-01,uat.moandbear.com.ph,/bulkbuy/,/brands/purr-delight/,Page Not Found,,1
+2023-03-01,uat.moandbear.com.ph,/bulkbuy/,/compare/,Feature comparison,,1
+2023-03-01,uat.moandbear.com.ph,/bulkbuy/,/index.php,All vendors :: Mo & Bear,,1
+2023-03-01,uat.moandbear.com.ph,/bulkbuy/,/index.php,Your order has been received,,1
+2023-03-01,uat.moandbear.com.ph,/bulkbuy/,/mo-and-bear/,All vendors :: Mo & Bear :: Brands :: Purr Delight,,1
+2023-03-01,uat.moandbear.com.ph,/bulkbuy/,/mo-and-bear/,All vendors :: Mo & Bear :: Pet Care,,1
+2023-03-01,uat.moandbear.com.ph,/bulkbuy/,/moandbear-greenhiils,Page Not Found,,1
+2023-03-01,uat.moandbear.com.ph,/bulkbuy/,/moandbear-greenhills/%3Fcategory_id=373&features_hash=1-86-387-PHP,All vendors :: Mo & Bear Greenhills :: Pet Care,,1
+2023-03-01,uat.moandbear.com.ph,/bulkbuy/,/moandbear-greenhills/%3Ffeatures_hash=1-86-373-PHP,All vendors :: Mo & Bear Greenhills,,1
+2023-03-01,uat.moandbear.com.ph,/login/?return_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D387,/login/,Sign in,,1
+2023-03-01,uat.moandbear.com.ph,/login/?return_url=index.php%3Fdispatch%3Dorders.search,/login/,Sign in,,1
+2023-03-01,uat.moandbear.com.ph,/moandbear-greenhills,/cart/,Cart contents,,1
+2023-03-01,uat.moandbear.com.ph,/moandbear-greenhills,/mo-and-bear/,All vendors :: Mo & Bear :: Brands,,1
+2023-03-01,uat.moandbear.com.ph,/moandbear-greenhills,/moandbear-greenhills,All vendors :: Mo & Bear Greenhills,,1
+2023-03-01,uat.moandbear.com.ph,/profiles-add/,/profiles-add/,Registration,,1
+2023-02-28,uat.moandbear.com.ph,/login/?return_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D387,/login/,Sign in,,25
+2023-02-28,uat.moandbear.com.ph,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,22
+2023-02-28,uat.moandbear.com.ph,/login/?return_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D387,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,14
+2023-02-28,uat.moandbear.com.ph,/login/?return_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D387,/wholesale/,Wholesale,,14
+2023-02-28,uat.moandbear.com.ph,/mo-and-bear,/wholesale/,Wholesale,,13
+2023-02-28,uat.moandbear.com.ph,/brands/happy-life/,/orders/,Orders,,9
+2023-02-28,uat.moandbear.com.ph,/,/login/,Sign in,,7
+2023-02-28,uat.moandbear.com.ph,/bulkbuy/,/bulkbuy/,Bulk Buy,,6
+2023-02-28,uat.moandbear.com.ph,/,/bulkbuy/,Bulk Buy,,5
+2023-02-28,uat.moandbear.com.ph,/login/?return_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D387,/profiles-add/,Registration,,5
+2023-02-28,uat.moandbear.com.ph,/login/?return_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D387,/profiles-update/,Editing profile,,5
+2023-02-28,uat.moandbear.com.ph,/mo-and-bear,/wholesale,Wholesale,,5
+2023-02-28,uat.moandbear.com.ph,/,/brands-en/purr-delight-en/,Purr Delight,,4
+2023-02-28,uat.moandbear.com.ph,/,/index.php,Apply for a vendor account,,4
+2023-02-28,uat.moandbear.com.ph,/,/wholesale-en/,Wholesale,,4
+2023-02-28,uat.moandbear.com.ph,/brands/happy-life/,/bulkbuy/,Bulk Buy,,4
+2023-02-28,uat.moandbear.com.ph,/mo-and-bear,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,4
+2023-02-28,uat.moandbear.com.ph,/mo-and-bear,/wholesale-en/,Wholesale,,4
+2023-02-28,uat.connectsys.shop,/,/checkout/,Checkout,,3
+2023-02-28,uat.connectsys.shop,/,/profiles-add/,Registration,,3
+2023-02-28,uat.moandbear.com.ph,/,/checkout/,Checkout,,3
+2023-02-28,uat.moandbear.com.ph,/,/wholesale,Page Not Found,,3
+2023-02-28,uat.moandbear.com.ph,/login/?return_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D387,/checkout/,Checkout,,3
+2023-02-28,uat.moandbear.com.ph,/moandbear-greenhills,/moandbear-greenhills,All vendors :: Mo & Bear Greenhills,,3
+2023-02-28,uat.moandbear.com.ph,/profiles-add/,/profiles-add/,Registration,,3
+2023-02-28,moandbear.com.ph,/mo-and-bear,/index.php,Apply for a vendor account,,2
+2023-02-28,moandbear.com.ph,/mo-and-bear,/mo-and-bear,All vendors :: Mo & Bear,,2
+2023-02-28,uat.connectsys.shop,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,2
+2023-02-28,uat.connectsys.shop,/,/cart/,Cart contents,,2
+2023-02-28,uat.connectsys.shop,/,/index.php,Orders :: Order information,,2
+2023-02-28,uat.connectsys.shop,/index.php?dispatch=orders.details&order_id=424,/index.php,Orders :: Order information,,2
+2023-02-28,uat.moandbear.com.ph,/,/brands-en/purr-delight-en/mo-and-bear-purr-delight-tuna-in-jelly-155gms/,Mo&Bear Purr Delight Tuna in Jelly 155gms,,2
+2023-02-28,uat.moandbear.com.ph,/,/index.php,Your order has been received,,2
+2023-02-28,uat.moandbear.com.ph,/,/moandbear-greenhills,All vendors :: Mo & Bear Greenhills,,2
+2023-02-28,uat.moandbear.com.ph,/,/orders/,Orders,,2
+2023-02-28,uat.moandbear.com.ph,/,/personal-care/,Personal Care,,2
+2023-02-28,uat.moandbear.com.ph,/,/pet-care/pet-food/,Pet Care :: Pet Food - Mo&Bear Categories,,2
+2023-02-28,uat.moandbear.com.ph,/,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-in-jelly-155gms-gh/,Mo&Bear Purr Delight Tuna in Jelly 155gms,,2
+2023-02-28,uat.moandbear.com.ph,/,/wholesale/,Page Not Found,,2
+2023-02-28,uat.moandbear.com.ph,/brands/happy-life/,/cart/,Cart contents,,2
+2023-02-28,uat.moandbear.com.ph,/brands/happy-life/,/index.php,Search results,,2
+2023-02-28,uat.moandbear.com.ph,/brands/happy-life/,/returns/,Return requests,,2
+2023-02-28,uat.moandbear.com.ph,/bulkbuy/,/about-us/,About Mo&Bear,,2
+2023-02-28,uat.moandbear.com.ph,/index.php?dispatch=auth.recover_password&ekey=ea9dd4fb70f756e32d9266d3cc8b7a31,/profiles-update/,Editing profile,,2
+2023-02-28,uat.moandbear.com.ph,/login/?return_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D387,/brands/happy-life/,Happy Life,,2
+2023-02-28,uat.moandbear.com.ph,/login/?return_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D387,/home-care/,Home Care,,2
+2023-02-28,uat.moandbear.com.ph,/login/?return_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D387,/index.php,Apply for a vendor account,,2
+2023-02-28,uat.moandbear.com.ph,/login/?return_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D387,/mo-and-bear,All vendors :: Mo & Bear,,2
+2023-02-28,uat.moandbear.com.ph,/login/?return_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D387,/wholesale/,Page Not Found,,2
+2023-02-28,uat.moandbear.com.ph,/mo-and-bear,/brands/happy-life/,Happy Life,,2
+2023-02-28,uat.moandbear.com.ph,/mo-and-bear,/checkout/,Checkout,,2
+2023-02-28,uat.moandbear.com.ph,/mo-and-bear,/index.php,Your order has been received,,2
+2023-02-28,uat.moandbear.com.ph,/mo-and-bear,/pet-care/happy-life-pet-shampoo-and-conditioner-1l-bulk,Happy Life Pet Shampoo & Conditioner 1L [Bulk],,2
+2023-02-28,uat.moandbear.com.ph,/mo-and-bear,/pet-care/happy-life-pet-shampoo-and-conditioner-1l-bulk/,Happy Life Pet Shampoo & Conditioner 1L [Bulk],,2
+2023-02-28,moandbear.com.ph,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,1
+2023-02-28,moandbear.com.ph,/?fbclid=PAAaZOO6vsdtIhpfUemA6rO7q1oVs9jbivrGTAJmB6yT1Aj6Dwrxzclh5JtpI,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,1
+2023-02-28,moandbear.com.ph,/?fbclid=PAAaZOO6vsdtIhpfUemA6rO7q1oVs9jbivrGTAJmB6yT1Aj6Dwrxzclh5JtpI,/brands/happy-life/,Happy Life,,1
+2023-02-28,moandbear.com.ph,/?fbclid=PAAaZOO6vsdtIhpfUemA6rO7q1oVs9jbivrGTAJmB6yT1Aj6Dwrxzclh5JtpI,/home-care/,Home Care,,1
+2023-02-28,moandbear.com.ph,/brands/adidas-running-men-x9000l3-shoes-fw8050/,/brands/adidas-running-men-x9000l3-shoes-fw8050/,Page Not Found,,1
+2023-02-28,moandbear.com.ph,/mo-and-bear,/brands/happy-life/,Happy Life,,1
+2023-02-28,moandbear.com.ph,/mo-and-bear,/checkout/,Checkout,,1
+2023-02-28,moandbear.com.ph,/mo-and-bear,/index.php,Your order has been received,,1
+2023-02-28,moandbear.com.ph,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/?fbclid=IwAR1eySaLitFrwbCA16UQkK2QofeUUI2WvP2mXDn6X425IvPb7Wh5ijqOjPs,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/,Mo&Bear Purr Delight Tuna with Moringa 155gms,,1
+2023-02-28,moandbear.com.ph,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/?fbclid=IwAR1pb7HW0Vw4Nn8r9Q2tafdOGCgIuGPjdKdiDu264nwa1M1VTBziAsZIBss,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/,Mo&Bear Purr Delight Tuna with Moringa 155gms,,1
+2023-02-28,moandbear.com.ph,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/?fbclid=IwAR3LMF79jq4M0EJw6v-UpWDW16SRz9fXorj5eF7m_Wp-LhwjIXruJP_xHGM,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/,Mo&Bear Purr Delight Tuna with Moringa 155gms,,1
+2023-02-28,uat.connectsys.shop,/,/brands/yebisu/miso-ramen-dx/,Brands :: Yebisu :: Miso Ramen DX,,1
+2023-02-28,uat.connectsys.shop,/,/index.php,Registration,,1
+2023-02-28,uat.connectsys.shop,/,/index.php,Your order has been received,,1
+2023-02-28,uat.moandbear.com,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,1
+2023-02-28,uat.moandbear.com.ph,/,/brands-en/happy-life/,Happy Life,,1
+2023-02-28,uat.moandbear.com.ph,/,/faqs/,Mo & Bear FAQs,,1
+2023-02-28,uat.moandbear.com.ph,/,/home-care/,Home Care,,1
+2023-02-28,uat.moandbear.com.ph,/,/home-care/happy-life-odor-eliminator-air-freshener-gh/,Happy Life Odor Eliminator Air Freshener,,1
+2023-02-28,uat.moandbear.com.ph,/,/index.php,Reset password,,1
+2023-02-28,uat.moandbear.com.ph,/,/index.php,Search results,,1
+2023-02-28,uat.moandbear.com.ph,/,/personal-care/happy-life-hand-gel-sanitizer-gh/,Happy Life Hand Gel Sanitizer,,1
+2023-02-28,uat.moandbear.com.ph,/,/personal-care/happy-life-hand-gel-sanitizer/,Happy Life Hand Gel Sanitizer,,1
+2023-02-28,uat.moandbear.com.ph,/,/profiles-add/,Registration,,1
+2023-02-28,uat.moandbear.com.ph,/,/profiles-update/,Editing profile,,1
+2023-02-28,uat.moandbear.com.ph,/brands/happy-life/,/brands/happy-life/,Page Not Found,,1
+2023-02-28,uat.moandbear.com.ph,/brands/happy-life/,/checkout/,Checkout,,1
+2023-02-28,uat.moandbear.com.ph,/brands/happy-life/,/index.php,Orders :: Order information,,1
+2023-02-28,uat.moandbear.com.ph,/brands/happy-life/,/index.php,Your order has been received,,1
+2023-02-28,uat.moandbear.com.ph,/bulkbuy/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,1
+2023-02-28,uat.moandbear.com.ph,/index.php?dispatch=auth.recover_password&ekey=ea9dd4fb70f756e32d9266d3cc8b7a31,/index.php,Reset password,,1
+2023-02-28,uat.moandbear.com.ph,/index.php?dispatch=checkout.complete&order_id=427,/index.php,Apply for a vendor account,,1
+2023-02-28,uat.moandbear.com.ph,/index.php?dispatch=checkout.complete&order_id=427,/index.php,Your order has been received,,1
+2023-02-28,uat.moandbear.com.ph,/login/?return_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D387,/brands/purr-delight/,Purr Delight,,1
+2023-02-28,uat.moandbear.com.ph,/login/?return_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D387,/index.php,Registration,,1
+2023-02-28,uat.moandbear.com.ph,/login/?return_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D387,/moandbearqc,Page Not Found,,1
+2023-02-28,uat.moandbear.com.ph,/login/?return_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D387,/personal-care/,Personal Care,,1
+2023-02-28,uat.moandbear.com.ph,/login/?return_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D387,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-in-jelly-155gms/,Mo&Bear Purr Delight Tuna in Jelly 155gms,,1
+2023-02-28,uat.moandbear.com.ph,/login/?return_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D387,/wholesale,Page Not Found,,1
+2023-02-28,uat.moandbear.com.ph,/login/?return_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D387,/wholesale,Wholesale,,1
+2023-02-28,uat.moandbear.com.ph,/login/?return_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D387,/wholesale/%3Ffeatures_hash=1-392-4224-PHP,Wholesale,,1
+2023-02-28,uat.moandbear.com.ph,/login/?return_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D387,/wholesale/happy-life-hand-gel-sanitizer-bulk/,Happy Life Hand Gel Sanitizer,,1
+2023-02-28,uat.moandbear.com.ph,/login/?return_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D387,/wholesale/mo-and-bear-purr-delight-tuna-with-moringa-155gms-bulk/,Mo&Bear Purr Delight Tuna with Moringa 155gms [Bulk],,1
+2023-02-28,uat.moandbear.com.ph,/mo-and-bear,/login/,Sign in,,1
+2023-02-28,uat.moandbear.com.ph,/mo-and-bear,/mo-and-bear,All vendors :: Mo & Bear,,1
+2023-02-28,uat.moandbear.com.ph,/mo-and-bear,/orders/,Orders,,1
+2023-02-28,uat.moandbear.com.ph,/mo-and-bear,/pet-care/happy-life-pet-shampoo-and-conditioner-1l-clone/,Happy Life Pet Shampoo & Conditioner 1L,,1
+2023-02-28,uat.moandbear.com.ph,/mo-and-bear,/profiles-update/,Editing profile,,1
+2023-02-28,uat.moandbear.com.ph,/mo-and-bear,/wholesale/mo-and-bear-purr-delight-tuna-in-jelly-155gms-bulk/,Mo&Bear Purr Delight Tuna in Jelly 155gms [Bulk],,1
+2023-02-28,uat.moandbear.com.ph,/moandbear-greenhills,/index.php,Registration,,1
+2023-02-28,uat.moandbear.com.ph,/moandbear-greenhills,/profiles-add/,Registration,,1
+2023-02-28,uat.moandbear.com.ph,/profiles-add/,/index.php,Registration,,1
+2023-02-28,uat.moandbear.com.ph,/profiles-add/,/login/,Sign in,,1
+2023-02-27,moandbear.com.ph,/?s_layout=96,/index.php,Page Not Found,,5
+2023-02-27,moandbear.com.ph,/?s_layout=96,/index.php,Apply for a vendor account,,4
+2023-02-27,moandbear.com.ph,/brands/purr-delight,/brands/purr-delight,Purr Delight,,4
+2023-02-27,moandbear.com.ph,/index.php?dispatch=companies.apply_for_vendor,/index.php,Apply for a vendor account,,3
+2023-02-27,uat.moandbear.com.ph,/?s_layout=96,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,3
+2023-02-27,moandbear.com.ph,/?s_layout=96,/mo-and-bear,All vendors :: Mo & Bear,,2
+2023-02-27,uat.moandbear.com.ph,/?s_layout=96,/index.php,Apply for a vendor account,,2
+2023-02-27,moandbear.com.ph,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,1
+2023-02-27,moandbear.com.ph,/,/brands/happy-life/,Happy Life,,1
+2023-02-27,moandbear.com.ph,/,/personal-care/happy-life-hand-gel-sanitizer/,Happy Life Hand Gel Sanitizer,,1
+2023-02-27,moandbear.com.ph,/brands/adidas-not-sports-specific-men-t-shirts-mh-bos-tee-en-5/,/brands/adidas-not-sports-specific-men-t-shirts-mh-bos-tee-en-5/,Brands :: Adidas Not Sports Specific Men T-Shirts Mh Bos Tee [GC7348] - Mo&Bear Products,,1
+2023-02-27,moandbear.com.ph,/categories/t-shirts/,/categories/t-shirts/,Page Not Found,,1
+2023-02-27,moandbear.com.ph,/index.php?dispatch=companies.apply_for_vendor,/mo-and-bear,All vendors :: Mo & Bear,,1
+2023-02-27,moandbear.com.ph,/pet-care/pet-food/?fbclid=IwAR0jzLrlYlgZ8h5eib4IkTejO_qKRXCYe2JWds6Grepu3q3TBLHmL_eGni8,/pet-care/pet-food/,Pet Care :: Pet Food - Mo&Bear Categories,,1
+2023-02-27,moandbear.com.ph,/pet-care/pet-food/?fbclid=IwAR0jzLrlYlgZ8h5eib4IkTejO_qKRXCYe2JWds6Grepu3q3TBLHmL_eGni8,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/,Mo&Bear Purr Delight Tuna with Moringa 155gms,,1
+2023-02-27,moandbear.com.ph,/pet-care/pet-food/?fbclid=IwAR1sj-xNnYcf_-YuCjIgke7eiIECkvgziELK3vNepj5CUu3FZu31AMvJPl4,/pet-care/pet-food/,Pet Care :: Pet Food - Mo&Bear Categories,,1
+2023-02-27,moandbear.com.ph,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-in-jelly-155gms/?fbclid=IwAR0Mg4lZxV3MwlXtIc4A8mAoZSsL4-13dRgcSJb4fsOSrAWOAvdMGuxxwP4,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-in-jelly-155gms/,Mo&Bear Purr Delight Tuna in Jelly 155gms,,1
+2023-02-27,moandbear.com.ph,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-in-jelly-155gms/?fbclid=IwAR0oizAYe2uwg_lgPJvZNVkCc2D7nSMtsDvS3DNxMQ3v7RltRjTkWLGpLQo,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-in-jelly-155gms/,Mo&Bear Purr Delight Tuna in Jelly 155gms,,1
+2023-02-27,moandbear.com.ph,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-in-jelly-155gms/?fbclid=IwAR3r5ttIk6RxxKUoCtnNLS9BR-d_UjhAaw_DbqQ6yT_wqsGkXOqQ0RwqW8U,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-in-jelly-155gms/,Mo&Bear Purr Delight Tuna in Jelly 155gms,,1
+2023-02-27,uat.moandbear.com.ph,/?s_layout=96,/mo-and-bear,All vendors :: Mo & Bear,,1
+2023-02-26,connectsys.shop,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,11
+2023-02-26,moandbear.com.ph,/brands/purr-delight,/brands/purr-delight,Purr Delight,,5
+2023-02-26,connectsys.shop,/cart/,/cart/,Cart contents,,1
+2023-02-26,connectsys.shop,/cuisine/japanese-food/kamameshi/,/cuisine/japanese-food/kamameshi/,Cuisine :: Japanese Food :: Kamameshi,,1
+2023-02-26,connectsys.shop,/cuisine/japanese-food/karaage/,/cuisine/japanese-food/karaage/,Cuisine :: Japanese Food :: Karaage,,1
+2023-02-26,connectsys.shop,/cuisine/japanese-food/ramen-deluxe/,/cuisine/japanese-food/ramen-deluxe/,Cuisine :: Japanese Food :: Ramen Deluxe,,1
+2023-02-26,connectsys.shop,/index.php?dispatch=auth.recover_password,/index.php,Reset password,,1
+2023-02-26,connectsys.shop,/login/?return_url=index.php,/login/,Sign in,,1
+2023-02-26,connectsys.shop,/login/?return_url=index.php%3Fdispatch%3Dprofiles.update,/login/,Sign in,,1
+2023-02-26,connectsys.shop,/profiles-add/,/profiles-add/,Registration,,1
+2023-02-26,moandbear.com.ph,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,1
+2023-02-26,moandbear.com.ph,/?fbclid=PAAaYktY8WhzG5WRkHpNkWwsCaF0Ii9owsjtu5zipBVi7gAGDOypDdcGWm03M,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,1
+2023-02-26,moandbear.com.ph,/brands/purr-delight,/brands/purr-delight/,Purr Delight,,1
+2023-02-26,moandbear.com.ph,/brands/purr-delight,/brands/purr-delight/%3Ffeatures_hash=1-87-88-PHP,Purr Delight,,1
+2023-02-26,moandbear.com.ph,/login/,/login/,Sign in,,1
+2023-02-26,moandbear.com.ph,/login/?return_url=index.php%3Fdispatch%3Dprofiles.update,/login/,Sign in,,1
+2023-02-25,moandbear.com.ph,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,2
+2023-02-25,uat.moandbear.com.ph,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,2
+2023-02-25,uat.moandbear.com.ph,/,/checkout/,Checkout,,2
+2023-02-25,uat.moandbear.com.ph,/,/index.php,Your order has been received,,2
+2023-02-25,moandbear.com.ph,/,/checkout/,Checkout,,1
+2023-02-25,moandbear.com.ph,/,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/,Mo&Bear Purr Delight Tuna with Moringa 155gms,,1
+2023-02-25,moandbear.com.ph,/about-our-company/,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/,Mo&Bear Purr Delight Tuna with Moringa 155gms,,1
+2023-02-25,moandbear.com.ph,/payment-and-shipping,/payment-and-shipping,Page Not Found,,1
+2023-02-25,uat.moandbear.com.ph,/,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-in-jelly-155gms/,Mo&Bear Purr Delight Tuna in Jelly 155gms,,1
+2023-02-25,uat.moandbear.com.ph,/about-our-company/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,1
+2023-02-25,uat.moandbear.com.ph,/about-our-company/,/about-our-company/,Page Not Found,,1
+2023-02-25,uat.moandbear.com.ph,/about-our-company/,/pet-care/,Pet Care,,1
+2023-02-25,uat.moandbear.com.ph,/about-our-company/,/pet-care/pet-food/,Pet Care :: Pet Food - Mo&Bear Categories,,1
+2023-02-25,uat.moandbear.com.ph,/about-our-company/,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/,Mo&Bear Purr Delight Tuna with Moringa 155gms,,1
+2023-02-25,uat.moandbear.com.ph,/brands/purr-delight/,/brands/purr-delight/,Purr Delight,,1
+2023-02-25,uat.moandbear.com.ph,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-in-jelly-155gms/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,1
+2023-02-25,uat.moandbear.com.ph,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-in-jelly-155gms/,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-in-jelly-155gms/,Mo&Bear Purr Delight Tuna in Jelly 155gms,,1
+2023-02-24,connectsys.shop,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,14
+2023-02-24,moandbear.com.ph,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,7
+2023-02-24,connectsys.shop,/,/checkout/,Checkout,,2
+2023-02-24,moandbear.com.ph,/home-care/happy-life-odor-eliminator-air-freshener/,/home-care/happy-life-odor-eliminator-air-freshener/,Happy Life Odor Eliminator Air Freshener,,2
+2023-02-24,moandbear.com.ph,/mo-and-bear/,/mo-and-bear/,All vendors :: Mo & Bear,,2
+2023-02-24,uat.moandbear.com.ph,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,2
+2023-02-24,connectsys.shop,/,/cuisine/japanese-food/edamame/,Cuisine :: Japanese Food :: Edamame,,1
+2023-02-24,connectsys.shop,/,/index.php,Your order has been received,,1
+2023-02-24,connectsys.shop,/?fbclid=IwAR18Rafm_x6kyAIiM9ERyTYV7iM2nivJ52KyaIA-_48EvMEtOnVzKlSiI48,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,1
+2023-02-24,moandbear.com.ph,/,/pet-care/happy-life-pet-shampoo-and-conditioner-1l-clone-mo-and-bear/,Happy Life Pet Shampoo & Conditioner 1L,,1
+2023-02-24,moandbear.com.ph,/?fbclid=PAAaYxlGHlF6-ToAGDGw1RtXRN_pylo9kvhX0NKgtOWjp427FEjZfWAZndYrA,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,1
+2023-02-24,moandbear.com.ph,/?fbclid=PAAaaG6tvnSjVI7PAgB82H3qQtvoqAOiB43ZeK5Zu87ZW2Td5HnVofZgUym9k,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,1
+2023-02-24,moandbear.com.ph,/faqs/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,1
+2023-02-24,moandbear.com.ph,/faqs/,/faqs/,Mo&Bear FAQs,,1
+2023-02-24,moandbear.com.ph,/pet-care/pet-food/,/pet-care/pet-food/,Pet Care :: Pet Food - Mo&Bear Categories,,1
+2023-02-24,moandbear.com.ph,/pet-care/pet-food/?fbclid=IwAR0ZCu-CxREE_fzmxMl6haqc_Bc3lnjungMup9cEIQ3tjrxQwXPVDeW9IUE,/pet-care/pet-food/,Pet Care :: Pet Food - Mo&Bear Categories,,1
+2023-02-24,moandbear.com.ph,/pet-care/pet-food/?fbclid=IwAR1eOxD1biW6TN8AOKLzRMHUFPYL0k9yK-00qHqIIspd-D193l5WMIrbunM,/pet-care/pet-food/,Pet Care :: Pet Food - Mo&Bear Categories,,1
+2023-02-24,moandbear.com.ph,/pet-care/pet-food/?fbclid=IwAR290iabUnN-vPwbOsnMDofaHphaYu-ru6gF36uPHZM3ADx1iA800cQTl0M,/checkout/,Checkout,,1
+2023-02-24,moandbear.com.ph,/pet-care/pet-food/?fbclid=IwAR290iabUnN-vPwbOsnMDofaHphaYu-ru6gF36uPHZM3ADx1iA800cQTl0M,/pet-care/pet-food/,Pet Care :: Pet Food - Mo&Bear Categories,,1
+2023-02-24,moandbear.com.ph,/pet-care/pet-food/?fbclid=IwAR290iabUnN-vPwbOsnMDofaHphaYu-ru6gF36uPHZM3ADx1iA800cQTl0M,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/,Mo&Bear Purr Delight Tuna with Moringa 155gms,,1
+2023-02-24,moandbear.com.ph,/pet-care/pet-food/?fbclid=IwAR2jAbh4p7AVz9GLAuESrgtT10N9AfdyMRlw_r-FIDhdd68vgvvfhxuos98,/pet-care/pet-food/,Pet Care :: Pet Food - Mo&Bear Categories,,1
+2023-02-24,moandbear.com.ph,/pet-care/pet-food/?fbclid=IwAR3HA7HuVyjwLdTyznxSE_spPmawSiMdQ4Ofjj4Ldm-YlD52DgYMH76RwC8,/pet-care/pet-food/,Pet Care :: Pet Food - Mo&Bear Categories,,1
+2023-02-24,uat.connectsys.shop,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,1
+2023-02-24,uat.moandbear.com.ph,/about-us/,/about-us/,About Mo&Bear,,1
+2023-02-23,moandbear.com.ph,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,8
+2023-02-23,moandbear.com.ph,/home-care/,/home-care/,Home Care,,4
+2023-02-23,connectsys.shop,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,2
+2023-02-23,moandbear.com.ph,/,/brands/happy-life/,Happy Life,,1
+2023-02-23,moandbear.com.ph,/,/home-care/happy-life-odor-eliminator-air-freshener/,Happy Life Odor Eliminator Air Freshener,,1
+2023-02-23,moandbear.com.ph,/,/pet-care/happy-life-pet-neem-soap-mo-and-bear/,Happy Life Pet Neem Soap,,1
+2023-02-23,moandbear.com.ph,/?fbclid=PAAaaBi1e1TOcYANOERCL7OcV6G-vxhcICEl9JfwPm9kK8cr0W4PXe66ORwuA,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,1
+2023-02-23,moandbear.com.ph,/?fbclid=PAAaaBi1e1TOcYANOERCL7OcV6G-vxhcICEl9JfwPm9kK8cr0W4PXe66ORwuA,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/,Mo&Bear Purr Delight Tuna with Moringa 155gms,,1
+2023-02-23,moandbear.com.ph,/brands/adidas-originals-men-shoes-stan-smith-en-31/,/brands/adidas-originals-men-shoes-stan-smith-en-31/,Brands :: Adidas Originals Men Shoes Stan Smith [M20325] - Mo&Bear Products,,1
+2023-02-23,moandbear.com.ph,/pet-care/pet-food/,/pet-care/pet-food/,Pet Care :: Pet Food - Mo&Bear Categories,,1
+2023-02-23,moandbear.com.ph,/pet-care/pet-food/?fbclid=IwAR24oiGm3iy2hapzut1KIC9j145M6ODa-lf_lonYQAJO-kZhxjh4tOrnqBM,/pet-care/pet-food/,Pet Care :: Pet Food - Mo&Bear Categories,,1
+2023-02-22,moandbear.com.ph,/pet-care/pet-food/,/pet-care/pet-food/,Pet Care :: Pet Food - Mo&Bear Categories,,17
+2023-02-22,moandbear.com.ph,/pet-care/pet-food/,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/,Mo&Bear Purr Delight Tuna with Moringa 155gms,,4
+2023-02-22,moandbear.com.ph,/pet-care/pet-food/,/brands/happy-life/,Happy Life,,3
+2023-02-22,moandbear.com.ph,/pet-care/pet-food/,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-in-jelly-155gms/,Mo&Bear Purr Delight Tuna in Jelly 155gms,,3
+2023-02-22,connectsys.shop,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,2
+2023-02-22,moandbear.com.ph,/home-care/,/home-care/,Home Care,,2
+2023-02-22,moandbear.com.ph,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,1
+2023-02-22,moandbear.com.ph,/pet-care/pet-food/,/brands/happy-life/%3Ffeatures_hash=1-98-592-PHP,Happy Life,,1
+2023-02-22,moandbear.com.ph,/pet-care/pet-food/,/checkout/,Checkout,,1
+2023-02-22,moandbear.com.ph,/pet-care/pet-food/?fbclid=IwAR0G5oYkCXPWI6MTOMNgOGwUdvy5n1uMWmDt9_VlizMgokgmpQ0JBV8SfFk,/pet-care/pet-food/,Pet Care :: Pet Food - Mo&Bear Categories,,1
+2023-02-22,moandbear.com.ph,/pet-care/pet-food/?fbclid=IwAR2SRlLPAxPYgRgV2T1obcFKE9LFAnTlWQczFHe7zdfsw_1Z6JEuDLi7Wz8,/pet-care/pet-food/,Pet Care :: Pet Food - Mo&Bear Categories,,1
+2023-02-22,moandbear.com.ph,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/,Mo&Bear Purr Delight Tuna with Moringa 155gms,,1
+2023-02-22,uat.connectsys.shop,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,1
+2023-02-22,uat.moandbear.com.ph,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-in-jelly-155gms/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,1
+2023-02-22,uat.moandbear.com.ph,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-in-jelly-155gms/,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-in-jelly-155gms/,Mo&Bear Purr Delight Tuna in Jelly 155gms,,1
+2023-02-21,moandbear.com.ph,/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,8
+2023-02-21,moandbear.com.ph,/,/pet-care/pet-food/mo-and-bear-purr-delight-tuna-with-moringa-155gms/,Mo&Bear Purr Delight Tuna with Moringa 155gms,,5
+2023-02-21,moandbear.com.ph,/brands/happy-life/,/brands/happy-life/,Happy Life,,4
+2023-02-21,moandbear.com.ph,/,/brands/purr-delight/,Purr Delight,,2
+2023-02-21,moandbear.com.ph,/,/home-care/,Home Care,,2
+2023-02-21,moandbear.com.ph,/brands/happy-life/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,2
+2023-02-21,moandbear.com.ph,/,/about-our-company/,About Us,,1
+2023-02-21,moandbear.com.ph,/,/brands/happy-life/,Happy Life,,1
+2023-02-21,moandbear.com.ph,/,/faqs,Mo&Bear FAQs,,1
+2023-02-21,moandbear.com.ph,/,/personal-care/happy-life-hand-gel-sanitizer/,Happy Life Hand Gel Sanitizer,,1
+2023-02-21,moandbear.com.ph,/?fbclid=IwAR2X7pbdgwo3IjsPbVsm-I-57qH1uAuEym34hwcU0fqi42SUW57Ojgkkjhc,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,1
+2023-02-21,moandbear.com.ph,/brands/happy-life/,/about-our-company/,About Us,,1
+2023-02-21,moandbear.com.ph,/pet-care/pet-food/?fbclid=IwAR3qyITVwt2bp3p6kxyI2yPzJZ7WuEUaw3-HgjM-xzOTfIfGt77ye9lpvv8,/pet-care/pet-food/,Pet Care :: Pet Food - Mo&Bear Categories,,1
+2023-02-21,uat.connectsys.shop,/vendor,/vendor,Page Not Found,,1
+2023-02-21,uat.moandbear.com.ph,/brands/happy-life/,/,Shopping Cart Software & Ecommerce Software Solutions by CS-Cart,,1
+2023-02-21,uat.moandbear.com.ph,/brands/happy-life/,/brands/happy-life/,Happy Life,,1
+2023-02-21,uat.moandbear.com.ph,/brands/happy-life/,/checkout/,Checkout,,1
